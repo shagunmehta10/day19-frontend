@@ -1,4 +1,4 @@
-const API = "https://day19-backend.onrender.com";
+const API = "https://day19-backend.onrender.com/tasks";
 
 // Load all tasks
 async function loadTasks() {
